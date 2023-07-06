@@ -1,0 +1,10 @@
+{
+    "game": {
+        "args": [
+            2,
+            10
+        ],
+        "kwargs": {},
+        "result": null
+    }
+}
